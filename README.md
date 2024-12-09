@@ -1,7 +1,6 @@
 ## Hi there 👋 , I'm [Elizabete Zveja]
 
-I'm a **Software Developer** with a passion for building robust and scalable applications. I specialize in **C#** and **.NET** development, and I’m dedicated to writing clean, 
-maintainable code that follows best practices such as **SOLID principles** and **Test-Driven Development (TDD)**.
+Welcome to my GitHub! I'm a passionate software developer with a knack for creating efficient, maintainable, and user-centric applications. My experience spans backend development, relational databases, and a touch of frontend magic.
 
 ---
 ## 🛠️ Technologies & Tools
@@ -28,6 +27,7 @@ maintainable code that follows best practices such as **SOLID principles** and *
 ---
 ## 🔥 What I'm Currently Learning
 - Diving deeper into Web API development.
+- React and TypeScript.
 
 ---  
 ## 📫 Let's Connect!
